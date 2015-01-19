@@ -2,7 +2,7 @@
 
 https://code.google.com/p/android/issues/detail?id=101279
 
-This Android Studio project replciates the reported issue. The project is not set up to compile
+This Android Studio project replicates the reported issue. The project is not set up to compile
 anything meaningful and probably doesn't compile. It's intended to trigger the code inspection
 error with no other extra stuff.
 
