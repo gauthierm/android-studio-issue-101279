@@ -9,4 +9,4 @@ error with no other extra stuff.
 To test, check out the project, open it in Android Studio and run `Analyze -> Inspect Code ...`.
 
 Android Studio will report "No suspicious code found.". Exceptions can be viewed
-with `Help -> View Logs in Finder`
+with `Help -> Show Log in Finder`
